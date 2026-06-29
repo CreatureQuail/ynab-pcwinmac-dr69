@@ -1,4 +1,4 @@
-# 
+# 更新 YNAB 工具 Mac OS版 | 开源 YNAB 工具 PC Windows版。集成 IRS电子申报 和 注释工具，跨平台性能最大化。
 
 
 
